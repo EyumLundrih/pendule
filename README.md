@@ -1,7 +1,7 @@
 # pendule
 # author: Lundrih
 
-Francais
+#Francais
 
 Pendule sur python avec OpenGL
 Le fichier Equa_diff.py résout l'equation differentielle du pendule
